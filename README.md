@@ -22,11 +22,5 @@
 
 ---
 
-## 🌐 Social
-<p align="left">
-<a href="https://discord.com/users/oli.veira"><img src="https://skillicons.dev/icons?i=discord" width="40px"></a>
-</p>
-
----
 
 <p align="center">⭐ Caso goste de algum projeto, considere deixar uma estrela!</p>
