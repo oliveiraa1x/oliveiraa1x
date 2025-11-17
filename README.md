@@ -18,9 +18,7 @@
 ---
 
 ## 🧠 Projetos em construção
-- 🤖 Bots para Discord  
-- 🛠️ Sistemas automatizados  
-- ⚡ Ferramentas úteis para programadores  
+- 🤖 Bots para Discord    
 
 ---
 
